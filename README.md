@@ -9,7 +9,7 @@ This project implements a neural network model to classify images from the MNIST
 ## How to Use
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/username/MNIST-Classification.git
+   git clone https://github.com/fall09/MNIST-Classification.git
    ```
 2. Open the `MNIST.ipynb` file using Jupyter Notebook or Google Colab.
 3. Install the required libraries:
